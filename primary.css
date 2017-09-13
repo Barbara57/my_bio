@@ -18,6 +18,33 @@ header
     align-items: center;
     height: 10vh;
     background-color: darkorchid;
+    font-size: 4rem;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+h1
+{
+    
     font-size: 3rem;
+
+}
+    
+    
+
+
+#main_photo{
+    
+ 
+    height: 320px;
     
 }
+
+
+.photo_lineup{
+    
+       display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
