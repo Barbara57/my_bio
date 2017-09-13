@@ -28,13 +28,19 @@ h1
     font-size: 3rem;
 
 }
+
+
+#lineup{
+    display: flex;
+    align-items:   flex-start;
     
+}
     
 
 
 #main_photo{
     
- 
+    margin-top: 1.5rem;
     height: 320px;
     
 }
@@ -46,5 +52,11 @@ h1
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+.scroll{
+    display: flex;
+    height: 25vh;
+    margin: 1.5rem;
 }
 
