@@ -82,6 +82,19 @@ h3{
 
 p.i{
     font-size: 1.75rem;
-    margin: 2.5rem;
+    margin: 2.5rem;         
+    
+}
+
+.picz
+{
+    height:  300px;
+    width: 200px;
+}
+
+#family_photos{
+    display: flex;
+    justify-content: space-around;
+     
     
 }
